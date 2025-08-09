@@ -1,4 +1,3 @@
-```
 Hello Sir,
 
 My name is Gungun Soni. I recently completed my B.Tech in Computer Science from the University of Allahabad with a CGPA of 8.4, where I built a strong foundation in data structures, algorithms, operating systems, and full-stack development. Alongside my academics, I applied these concepts through hands-on projects. One of my key achievements was building an AI-powered mock interview platform using Next.js and Firebase, where I integrated voice interaction and real-time feedback to simulate human-like interviews. Another project I’m proud of is a chatbot powered by Hugging Face LLMs that answers questions from uploaded PDFs using FAISS and LangChain for semantic search—demonstrating my ability to architect and deploy complex AI systems.
@@ -14,4 +13,4 @@ Warm Regards,
 Gungun Soni  
 gungunbps2018@gmail.com  
 8081776358
-```
+
